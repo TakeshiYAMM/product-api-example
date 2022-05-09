@@ -64,3 +64,4 @@ $ yarn serverless offline --noAuth
 
 ## Pull Request Test
 done!
+再確認
